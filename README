@@ -1,0 +1,6 @@
+The project description
+
+1. Use directshow to capture audio.
+2. Use AAC to encode the audio.
+3. The original audio data is saved as wav file.
+4. The encoded audio data is saved as aac file with ADTS file format.
