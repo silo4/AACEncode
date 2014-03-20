@@ -1,0 +1,13 @@
+#ignore these files
+*.ncb
+*.suo
+*.aps
+
+#ignore these dirs
+AACEncode/Debug/
+AACEncode/Release/
+baseclasses/Debug/
+baseclasses/Release/
+Debug/
+Release/
+
